@@ -1,2 +1,3 @@
-# Parallel and Distributed Computing Lab Notes
+# Parallel and Distributed Computing
 
+Lab notes
